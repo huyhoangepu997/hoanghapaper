@@ -1,0 +1,33 @@
+.tt {
+	text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;
+}
+
+.content-lienhe {
+	line-height: 2.5;
+}
+.tt-lienhe {
+	  font-size: 16px;
+    font-weight: bold;
+    line-height: 35px;
+}
+
+.content-lienhe .form-group {
+		margin-bottom: 0px;
+}
+
+.content-lienhe label {
+		margin-bottom: 0;
+}
+
+.content-lienhe input{
+	border-radius: 20px;
+}
+
+.content-lienhe textarea {
+	border-radius: 20px;
+}
+
+

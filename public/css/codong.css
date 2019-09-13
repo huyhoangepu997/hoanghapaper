@@ -1,0 +1,112 @@
+
+.codongs-tt-title {
+    background-color:#058ff7;
+    
+     
+}
+.codong-tt a{
+color: white !important;
+background-color: #058ff7;
+}
+.codong-tt .active {
+    color: black !important;
+}
+/* .nav-tabs .nav-link  {
+         border: 1px solid transparent;
+    border-top-left-radius: none !important;
+    border-top-right-radius: none !important;
+}*/
+
+ .codong-ct .thumbnail {
+    width: auto; 
+    overflow: hidden;    
+  }
+  
+.codong-ct .thumbnail img {
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s; 
+    -moz-transition-duration: 0.5s; 
+    -o-transition-duration: 0.5s;
+    -ms-transition-duration: 0.5s;
+  }
+  
+ .codong-ct .thumbnail img:hover {
+    transform: scale(1.2);
+    opacity: 0.6;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2); 
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    cursor: pointer; 
+  }
+@media (min-width: 577px){
+    .codongs-tt-title{
+        display: none;
+    }
+}
+@media (max-width: 576px){
+    .codongs-tt{
+        display: none;
+    }
+    .codongs-tt li{
+        width: 100%;
+    }
+    .codongs-tt-title {
+        width: 154px;
+        border-radius: 2px;
+    }
+
+}
+
+.codongs-tt-title {
+    background-color:#058ff7;
+     
+}
+.codong-tt a{
+color: white !important;
+background-color: #058ff7;
+}
+.codong-tt .active {
+    color: black !important;
+}
+/* .nav-tabs .nav-link  {
+         border: 1px solid transparent;
+    border-top-left-radius: none !important;
+    border-top-right-radius: none !important;
+}*/
+
+ .codong-ct .thumbnail {
+    width: auto; 
+    overflow: hidden;    
+  }
+  
+.codong-ct .thumbnail img {
+    transition-duration: 0.5s;
+    -webkit-transition-duration: 0.5s; 
+    -moz-transition-duration: 0.5s; 
+    -o-transition-duration: 0.5s;
+    -ms-transition-duration: 0.5s;
+  }
+  
+ .codong-ct .thumbnail img:hover {
+    transform: scale(1.2);
+    opacity: 0.6;
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2); 
+    -o-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    cursor: pointer; 
+  }
+@media (min-width: 577px){
+    .codongs-tt-title{
+        display: none;
+    }
+}
+@media (max-width: 576px){
+    .codongs-tt{
+        display: none;
+    }
+    .codongs-tt li{
+        width: 100%;
+    }
+}

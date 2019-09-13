@@ -1,0 +1,50 @@
+.text-banner {
+	font-size: 40px;
+  
+    color:white;
+    font-weight: 700;
+}
+.banner-1{
+	background-image: url("http://4.bp.blogspot.com/-DqmAQXVQttw/UE28Ke2OTBI/AAAAAAAAAdc/Cu3NFLhppRA/s1600/anh-bia+(14).jpg"); 
+	width:100%;
+	height:250px;
+
+}
+.nav-content {
+	background-color: #058ff7 !important;
+	display: table;
+	
+}
+.nav-content a{
+color: white !important;
+
+}
+
+.nav-content .nav-link {
+	border-bottom: 1px solid white;
+	line-height: 35px;
+	border-radius: none !important;
+	padding-bottom: 9px;
+	border-bottom: 1px dashed #e0e0e0;
+}
+
+.text-gioithieu {
+	font-weight: bold;
+	font-size: 25px;
+	color: #058ff7;
+}
+
+tbody tr th {
+	text-align: center !important;
+	vertical-align: middle !important;
+}
+
+tr td:last-child {
+	/*text-align: center;*/
+	vertical-align: middle;
+}
+
+.td-style {
+	text-align: center;
+	vertical-align: middle !important;
+}

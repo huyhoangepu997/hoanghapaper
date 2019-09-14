@@ -361,7 +361,7 @@ Giới thiệu
           </div>
         
           <div class="tab-pane fade pl-4" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-            <h4 class="mt-3 text-gioithieu">SƠ ĐỒ TỔ CHỨC</h4>
+            <h4 class="mt-3 text-gioithieu">CƠ CẤU TỔ CHỨC</h4>
             <hr>
             <p>Hiện tại, CTCP Giấy Hoàng Hà Hải Phòng được tổ chức và hoạt động tuân thủ theo:</p>
             <ul style="margin-left: 20px;">
@@ -380,12 +380,75 @@ Giới thiệu
               <li>Website: hhppaper.com</li>
               <li>Email: hhppaper@gmail.com</li>
             </ul>
+            <h5>Công ty con: Công ty CP Giấy Hoàng Hà Hà Nam</h5>
+            <ul style="margin-left: 20px;">
+              <li>Địa chỉ: KCN Đồng Văn I, Đồng Văn, Thị trấn Đồng Văn, huyện Duy Tiên, tỉnh Hà Nam, Việt Nam</li>
+              <li>• Điện thoại: 0226 3582866</li>
+              <li>Fax: 0226 3582867</li>
+            </ul>
           </div>
 
 
-
-
-
+          <div class="tab-pane fade pl-4" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">
+            <h4 class="mt-3 text-gioithieu">  Cơ cấu bộ máy quản lý của Công ty</h4>
+            <h5 class="text-center">Sơ đồ 1: Cơ cấu tổ chức CTCP Giấy Hoàng Hà Hải Phòng</h5>
+            <div class="text-center"><img src="{{ asset('images/1.jpg') }}" alt="" ></div>
+            <h5 style="margin-top:20px;">Đại hội đồng cổ đông</h5>
+            <ul style="margin-left: 20px;">
+              <li style="list-style: none;font-weight: 500;">Đại hội đồng cổ đông là cơ quan có thẩm quyền cao nhất của Công ty, quyết định những vấn đề thuộc nhiệm vụ và quyền hạn được Điều lệ Công ty và Pháp luật liên quan quy định. Đại hội đồng cổ đông có các quyền và nhiệm vụ sau:</li>
+              <li> Thông qua, sửa đổi, bổ sung Điều lệ Công ty;.</li>
+              <li> Thông qua kế hoạch phát triển Công ty, thông qua báo cáo tài chính hàng năm, báo cáo của HĐQT, Ban kiểm soát và của Kiểm toán viên;</li>
+              <li>Quyết định mức cổ tức thanh toán hàng năm cho mỗi loại cổ phần phù hợp với Luật Doanh nghiệp và các quyền gắn liền với loại cổ phần đó;</li>
+              <li> Quyết định số tiền thù lao của các thành viên Hội đồng quản trị và Báo cáo tiền thù lao của Hội đồng quản trị</li>
+              <li>Quyết định tổ chức lại và giải thể Công ty</li>
+              <li> Bầu, miễn nhiệm, bãi nhiệm Thành viên HĐQT, Ban kiểm soát</li>
+              <li>  Quyết định số thành viên HĐQT;</li>
+              <li>Các quyền khác được quy định tại Điều lệ Công ty.</li>
+            </ul>
+            <h5 style="margin-top:20px;"> Hội đồng quản trị</h5>
+            <ul style="margin-left: 20px;">
+              <li style="list-style: none;font-weight: 500;">HĐQT là cơ quan quản trị của Công ty, do ĐHĐCĐ bầu ra gồm 05 thành viên, có toàn quyền nhân danh Công ty để quyết định các vấn đề liên quan đến mục đích, quyền lợi của Công ty, trừ những vấn đề thuộc thẩm quyền Đại hội đồng cổ đông. HĐQT có các quyền sau:</li>
+              <li> Quyết định cơ cấu tổ chức, bộ máy của Công ty</li>
+              <li>Quyết định chiến lược đầu tư, phát triển của Công ty trên cơ sở các mục đích chiến lược do ĐHĐCĐ thông qua</li>
+              <li>- Bổ nhiệm, miễn nhiệm, cách chức, giám sát hoạt động của Ban Tổng Giám đốc</li>
+              <li>Kiến nghị sửa đổi bổ sung Điều lệ, báo cáo tình hình kinh doanh hàng năm, Báo cáo tài chính, quyết toán năm, phương án phân phối lợi nhuận và phương hướng phát triển, kế hoạch phát triển sản xuất kinh doanh và ngân sách hàng năm trình ĐHĐCĐ</li>
+              <li>Kiến nghị việc tổ chức lại, giải thể hoặc yêu cầu phá sản công ty</li>
+              <li> Bầu, miễn nhiệm, bãi nhiệm Thành viên HĐQT, Ban kiểm soát</li>
+              <li>  Quyết định số thành viên HĐQT;</li>
+              <li>Các quyền khác được quy định tại Điều lệ.</li>
+              <p>HĐQT của CTCP Giấy Ho&agrave;ng H&agrave; Hải Ph&ograve;ng bao gồm 05 th&agrave;nh vi&ecirc;n:</p>
+                          <table class="table table-bordered">
+                <tbody>
+                  <tr>
+                    <td>Ông Trần Kim Gia</td>
+                    <td>Chủ tịch HĐQT</td>
+                  </tr>
+                  <tr>
+                    <td>Ông Nguyễn Huy Long</td>
+                    <td>Thành viên HĐQT</td>
+                  </tr>
+                  <tr>
+                    <td>Ông Nguyễn Trung Thành</td>
+                    <td>Thành viên HĐQT</td>
+                  </tr>
+                  <tr>
+                    <td>Bà Trần Thị Thu Phương</td>
+                    <td>Thành viên HĐQTT</td>
+                  </tr>
+                    <tr>
+                    <td>Bà Nguyễn Thị Ngân</td>
+                    <td>Thành viên HĐQT</td>
+                  </tr>
+                </tbody>
+              </table>
+              <h5 style="margin-top:20px;"> Ban Kiểm soát </h5>
+              <ul style="margin-left: 20px;">
+              <li style="list-style: none;font-weight: 500;">Ban kiểm soát do ĐHĐCĐ bầu ra gồm 03 thành viên, thay mặt cổ đông để kiểm soát mọi hoạt động quản trị và điều hành sản xuất kinh doanh của Công ty. BKS chịu trách nhiệm trước ĐHĐCĐ và pháp luật về những công việc thực hiện theo quyền và nghĩa vụ như:</li>
+              <li> Kiểm tra sổ sách kế toán và các Báo cáo tài chính của Công ty, kiểm tra tính hợp lý, hợp pháp của các hoạt động sản xuất kinh doanh và tài chính Công ty, kiểm tra việc thực hiện các nghị quyết, quyết định của HĐQT</li>
+              <li> Trình ĐHĐCĐ báo cáo thẩm tra các báo cáo tài chính của Công ty, đồng thời có quyền trình bày ý kiến độc lập của mình về kết quả thẩm tra các vấn đề liên quan tới hoạt động kinh doanh, hoạt động của HĐQT và Ban Tổng Giám đốc</li>
+              <li>Yêu cầu HĐQT triệu tập ĐHĐCĐ bất thường trong trường hợp xét thấy cần thiết</li>
+              <li>Các quyền khác được quy định tại Điều lệ</li>
+            </ul>
         </div>
         <!-- cột bên phải -->
         <!-- <div class="col-md-3 tin-tuc-content"  data-aos="fade-up" data-aos-delay="700">

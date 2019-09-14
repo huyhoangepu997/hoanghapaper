@@ -252,7 +252,7 @@ Trang chủ
 				<a href="{{ route('gioithieu') }}">
 					<div class="h-image-member-inner">
 						<div class="text-center font-bold background-blue p-2">Sứ mệnh</div>
-						<div><img src="images/jesu.jpg " style="width: 100%;"></div>
+						<div><img src="images/jesu.jpg" style="width: 100%;"  height="207"></div>
 					</div>
 				</a>
 			</div>
@@ -260,7 +260,7 @@ Trang chủ
 				<a href="{{ route('gioithieu') }}">
 					<div class="h-image-member-inner">
 						<div class="text-center font-bold background-blue p-2">Triết lí</div>
-						<div><img src="images/h-image-3.jpg"></div>
+						<div><img src="images/trietly.jpg" height="207"></div>
 					</div>
 				</a>
 			</div>
@@ -268,7 +268,7 @@ Trang chủ
 				<a href="{{ route('gioithieu') }}">
 					<div class="h-image-member-inner">
 						<div class="text-center font-bold background-blue p-2">Tầm nhìn</div>
-						<div><img src="images/h-image-4.jpeg"></div>
+						<div><img src="images/tamnhin.jpg" height="207"></div>
 					</div>
 				</a>
 			</div>
@@ -276,7 +276,7 @@ Trang chủ
 				<a href="{{ route('gioithieu') }}">
 					<div class="h-image-member-inner">
 						<div class="text-center font-bold background-blue p-2">Ban điều hành</div>
-						<div><img src="images/h-image-2.jpg"></div>
+						<div><img src="images/av.jpg" height="207"></div>
 					</div>
 				</a>
 			</div>
@@ -563,11 +563,12 @@ Trang chủ
 		</div>
 	</div>
 </div>
+
 <div class="h-news-wrap all-wrap wow slideInLeft">
 	<div class="container">
 		<div class="h-news-title mb-4">
 			<h2 class="text-center font-bold color-blue">Tin tức</h2>
-		</div>
+		</div>	
 		<div class="h-news owl-carousel owl-theme">
 			<div class="h-news-member">
 				<div class="box-image">
@@ -616,4 +617,13 @@ Trang chủ
 		</div>
 	</div>
 </div>
+
+<div class="news-block">
+	<div class="container">
+		<div class="slider-news">
+			
+		</div>
+	</div>
+</div>
+
 @endsection

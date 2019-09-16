@@ -618,12 +618,12 @@ Trang chủ
 	</div>
 </div>
 
-<div class="news-block">
+<!-- <div class="news-block">
 	<div class="container">
 		<div class="slider-news">
 			
 		</div>
 	</div>
-</div>
+</div> -->
 
 @endsection

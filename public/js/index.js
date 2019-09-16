@@ -128,6 +128,12 @@ $(document).ready(function(){
 	$(".menu-mobile-tier-2").click(function(){
 		$(".menu-mobile-tier-2-content").toggle(400);
 	});
+	$(".menu-mobile-tier-1").click(function(){
+		$(".menu-mobile-tier-1-content").toggle(400);
+	});
+	$(".menu-mobile-tier-3").click(function(){
+		$(".menu-mobile-tier-3-content").toggle(400);
+	});
 	// Other
 	var window_width = $(window).width();
 	if(window_width < 1200 && window_width > 576){

@@ -78,11 +78,11 @@
 				<li><a href="{{ route('codong') }}">Quan hệ cổ đông</a></li>
 				<li class="menu-mobile-tier-1" style="cursor: pointer;">Giới thiệu
 					<ul class="menu-mobile-tier-1-content">
-						<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Về chúng tôi</a></li>
-						<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Cơ cấu tổ chức</a></li>
-						<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Cơ cấu bộ máy quản lý</a></li>
-						<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Danh sách cổ công</a></li>
-						<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Danh sách công ty</a></li>
+						<li><a href="{{ route('gioithieu') }}"><i class="fas fa-angle-right"></i> Về chúng tôi</a></li>
+						<li><a href="{{ route('gioithieu') }}"><i class="fas fa-angle-right"></i> Cơ cấu tổ chức</a></li>
+						<li><a href="{{ route('gioithieu') }}"><i class="fas fa-angle-right"></i> Cơ cấu bộ máy quản lý</a></li>
+						<li><a href="{{ route('gioithieu') }}"><i class="fas fa-angle-right"></i> Danh sách cổ công</a></li>
+						<li><a href="{{ route('gioithieu') }}"><i class="fas fa-angle-right"></i> Danh sách công ty</a></li>
 					</ul>
 				</li>
 				<li class="menu-mobile-tier-2" style="cursor: pointer;">Sản phẩm
@@ -98,8 +98,8 @@
 				</li>
 				<li class="menu-mobile-tier-3" style="cursor: pointer;">Tin tức
 					<ul class="menu-mobile-tier-3-content">
-						<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i>Tin ngành</a></li>
-						<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i>Tin nội bộ</a></li>
+						<li><a href="{{ route('tintuc') }}"><i class="fas fa-angle-right"></i>Tin ngành</a></li>
+						<li><a href="{{ route('tintuc') }}"><i class="fas fa-angle-right"></i>Tin nội bộ</a></li>
 					</ul>
 				</li>
 				<li><a href="{{ route('tuyendung') }}">Tuyển dụng</a></li>

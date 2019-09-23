@@ -48,6 +48,14 @@ $(document).ready(function(){
 		center:false,
 		margin:15
 	});
+	$(".banner-member").owlCarousel({
+		items:1,
+		loop:true,
+		autoplay:true,
+		nav:true,
+		dots:true,
+		center:true
+	});
 	$(".h-customer").owlCarousel({
 		responsive:{
 			768:{
@@ -165,3 +173,33 @@ $(document).ready(function(){
 		$(".codongs-tt").toggle(400);
 	});
 });
+
+function myFunction() {
+	var dots = document.getElementById("dots");
+	var moreText = document.getElementById("more");
+	var btnText = document.getElementById("myBtn");
+
+	if (dots.style.display === "none") {
+		dots.style.display = "inline";
+		btnText.innerHTML = "Đọc thêm"; 
+		moreText.style.display = "none";
+	} else {
+		dots.style.display = "none";
+		btnText.innerHTML = "Rút gọn"; 
+		moreText.style.display = "inline";
+	}
+}
+
+$('#datepicker').datepicker({
+	uiLibrary: 'bootstrap4'
+});
+
+// Select Language
+
+$(function(){
+  $('.dropdown-language span').click(function(){
+    var change_language = $(this).find('img').attr('src');
+    $('#selectedText').text($(this).text());
+    $('#selectedImg').attr('src',change_language);
+  });
+})

@@ -351,7 +351,7 @@ body,html{
 }
 /*Home about*/
 .h-about-content{
-  height: 388px;
+  /*height: 388px;*/
    /*max-height: 100% !important;*/
        overflow: hidden;
 }
@@ -446,7 +446,26 @@ body,html{
 .h-product .nav-tabs .nav-link:hover {
   border: none;
 }
-.h-product .nav-tabs .nav-link.active{
+
+.h-product .nav-pills .nav-link.active, .h-product .nav-pills .show>.nav-link {
+  color: #333 !important;
+  background-color: transparent !important;
+}
+
+.h-product .nav-link {
+  padding: 0 !important;
+  font-size: 18px;
+}
+
+.h-product .nav-item {
+  margin: 0 20px;
+}
+
+.h-product .nav-pills .nav-link {
+  border-radius: 0px !important;
+}
+
+.h-product .nav-item .nav-link.active{
   border: none;
   border-bottom: 3px solid #e67718;
 }
@@ -773,3 +792,5 @@ ul.sub-menu li {
   height: 100% !important;
   object-fit: cover;
 }
+
+#more {display: none;}

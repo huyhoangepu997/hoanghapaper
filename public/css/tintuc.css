@@ -10,9 +10,9 @@
 .single-blog-area {
     position: relative;
     z-index: 1;
-    box-shadow: 0 3px 8px rgba(0, 0, 0.3, 0.3);
     border-radius: 6px; 
     margin-bottom: 50px;
+    width: 100%;
 }
 
 .single-blog-area img {
@@ -22,12 +22,13 @@
 }
 
 .single-blog-area .blog-content {
-    padding: 25px;
+    /*padding: 5px;*/
     overflow: hidden;
   }
 
 .single-blog-area .blog-content .blog-headline {
     display: block;
+    color: #BBB;
 }
 
 .single-blog-area .blog-content .blog-headline h5 {

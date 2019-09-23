@@ -42,12 +42,9 @@
 						</div>
 						<div class="footer-top-product-content">
 							<ul>
-								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Giấy Testliner</a></li>
-								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Giấy Medium</a></li>
-								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Giấy bao gói</a></li>
-								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Tấm lợp sinh hợp</a></li>
-								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Tái chế vỏ hộp sữa</a></li>
-								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Vách trần sinh thái</a></li>
+								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Giấy Kraft Sóng</a></li>
+								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Giấy Kraft Sóng Gia Keo</a></li>
+								<li><a href="{{ route('category') }}"><i class="fas fa-angle-right"></i> Giấy Chipboard</a></li>
 							</ul>
 						</div>
 					</div>
@@ -55,12 +52,12 @@
 				<div class="col-md-5">
 					<div class="footer-top-about">
 						<div class="footer-top-about-title font-bold pb-2 mb-2">
-							CTCP Hoàng Hà Hải Phòng
+							CTCP Giấy Hoàng Hà Hải Phòng
 						</div>
 						<div class="footer-top-about-content">
 							<ul>
 								<li><span class="font-bold">Địa chỉ:</span> <i>Số 194 đường Kiều Hạ, Phường Đông Hải 2, Quận Hải An, Thành phố Hải Phòng.</i></li>
-								<li><span class="font-bold">ĐT:</span> <i>0225.397.9952</i></li>
+								<li><span class="font-bold">ĐT:</span> <i>0388936388</i></li>
 								<li><span class="font-bold">Email:</span> <a href="">hhppaper@gmail.com</a></li>
 								<li><i class="fab fa-facebook-square"></i> <i class="fab fa-twitter-square"></i> <i class="fab fa-google-plus-square"></i> <i class="fab fa-instagram"></i></li>
 							</ul>

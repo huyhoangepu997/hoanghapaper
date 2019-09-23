@@ -45,7 +45,7 @@ Cổ đông
             <li class="list-group-item">
               <span>Công ty Cổ phần Giấy Hoàng Hà Hải Phòng xin thông báo: Công ty đã được Ủy Ban Chứng Khoán Nhà Nước chấp thuận trở thành Công ty Đại chúng vào ngày 16/05/2018
                 <br>
-                Thông tin chi tiết xem <a href="">tại đây</a>.
+                Thông tin chi tiết xem <a href="{{ asset('file/HHHP.PDF') }}" download="Công văn chấp thuận đại chúng 16-05-2018 HHHP.PDF">tại đây</a>.
               </span>
             </li>
             
@@ -57,7 +57,7 @@ Cổ đông
 
         <div class="col-md-3 tin-tuc-content"  data-aos="fade-up" data-aos-delay="400">
             <ul class="list-group" >
-                <li class="list-group-item text-center font-weight-bold" style="background-color: #058ff7 ; color: white" >TUYỂN DỤNG</li>
+                <li class="list-group-item text-center font-weight-bold" style="background-color: #058ff7 ; color: white" >TIN MỚI</li>
               <li class="list-group-item">
                   <div class="row">
                       <div class="col-md-4 " style="padding:0"><img src="http://hhppaper.com/image/data/tin%20t%E1%BB%A9c/paper_FMTV.jpg" style="width: 90%">

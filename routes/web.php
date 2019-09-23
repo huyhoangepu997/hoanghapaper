@@ -50,9 +50,11 @@ Route::get('product', function () {
 Route::get('tintucchitiet', function () {
 	return view('pages.tintucchitiet');
 })->name('tintucchitiet');
+
 Route::get('tuyendungchitiet', function () {
 	return view('pages.tuyendungchitiet');
 })->name('tuyendungchitiet');
+
 Route::get('codongchitiet', function () {
 	return view('pages.codongchitiet');
 })->name('codongchitiet');

@@ -32,11 +32,11 @@ Liên hệ
 							<br>
 							<i class="fas fa-map-marker-alt"></i> <strong> Văn phòng đại diện:</strong>  Số 29 Ngõ 53 Nguyễn Khoái, Bạch Đằng, Hai Bà Trưng, Hà Nội 
 							<br>
-							<i class="fas fa-envelope"></i> <strong>Email:</strong>  hhppaper@.com
+							<i class="fas fa-envelope"></i> <strong>Email:</strong>  hhppaper@gmail.com
 							<br>
-							<i class="fas fa-phone-volume"></i> <strong>Điện thoại: </strong>  (84-225) 397.9952
+							<i class="fas fa-phone-volume"></i> <strong>Điện thoại: </strong>  0388936388
 							<br>
-							<i class="fas fa-fax"></i> <strong>Fax: </strong> (84-225) 397.9951 
+							<i class="fas fa-fax"></i> <strong>Fax: </strong>0388936388 
 							<br>
 							<i class="fas fa-globe"></i> <strong>Website: </strong>www.hhppaper.com
 							</div>
